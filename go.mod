@@ -1,3 +1,3 @@
-module github.com/KarrenAeris/bank/v2
+module github.com/KarrenAeris/bank
 
 go 1.15
